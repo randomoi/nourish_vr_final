@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed89eda151f6d47f6a07660a96a690de, type: 3}
+  m_Name: FoodData
+  m_EditorClassIdentifier: 
+  foods:
+  - name: Champagne
+    nutritionalInfo: Invented in 1697 by accident
+    caloriesPer100g: 76
+    weight: 100
+  - name: Strawberry Cake
+    nutritionalInfo: Recipe dates to 18th century
+    caloriesPer100g: 3560
+    weight: 1000
+  - name: Turnip
+    nutritionalInfo: Dates back over 4,000 years
+    caloriesPer100g: 22
+    weight: 100
+  - name: Chocolate Cake
+    nutritionalInfo: First recipe published in 1847
+    caloriesPer100g: 389
+    weight: 100
+  - name: Yellow Dragon Fruit
+    nutritionalInfo: Contains a high amount of protein
+    caloriesPer100g: 102
+    weight: 100
+  - name: Starfruit
+    nutritionalInfo: Grows on Carambola trees
+    caloriesPer100g: 41
+    weight: 100
+  - name: Red Dragon Fruit
+    nutritionalInfo: Helps boost immunity
+    caloriesPer100g: 61
+    weight: 100
+  - name: Artichoke
+    nutritionalInfo: Artichoke is an unbloomed flower
+    caloriesPer100g: 47
+    weight: 100
+  - name: Passion Fruit
+    nutritionalInfo: It's a berry
+    caloriesPer100g: 97
+    weight: 100
+  - name: Avocado
+    nutritionalInfo: Ripen once removed from a tree
+    caloriesPer100g: 160
+    weight: 100
+  - name: Zucchini
+    nutritionalInfo: Has more potassium than bananas
+    caloriesPer100g: 17
+    weight: 100
+  - name: Carrot
+    nutritionalInfo: Made of 88% water
+    caloriesPer100g: 41
+    weight: 100
+  - name: Pineapple
+    nutritionalInfo: Can take up to 3 years to grow
+    caloriesPer100g: 50
+    weight: 100
+  - name: Donut with Jelly
+    nutritionalInfo: "Once called \u201Coily cakes\u201D"
+    caloriesPer100g: 412
+    weight: 100
+  - name: Donut with chocolate
+    nutritionalInfo: "Once called \u201Coily cakes\u201D"
+    caloriesPer100g: 412
+    weight: 100
+  - name: Red Velvet Donut
+    nutritionalInfo: "Once called \u201Coily cakes\u201D"
+    caloriesPer100g: 412
+    weight: 100
+  - name: Red Velvet
+    nutritionalInfo: Also known as "Red Carpet Cake"
+    caloriesPer100g: 389
+    weight: 100
+  - name: CakePart2
+    nutritionalInfo: CakePart2 info
+    caloriesPer100g: 389
+    weight: 100
+  - name: CakePart3
+    nutritionalInfo: CakePart2 info
+    caloriesPer100g: 389
+    weight: 100
+  - name: CakePart4
+    nutritionalInfo: CakePart2 info
+    caloriesPer100g: 389
+    weight: 100
+  - name: CakePart5
+    nutritionalInfo: CakePart2 info
+    caloriesPer100g: 389
+    weight: 100
+  - name: French Fries
+    nutritionalInfo: A french fries museum exists
+    caloriesPer100g: 312
+    weight: 100
+  - name: Mini Burger
+    nutritionalInfo: Named after Hamburg, Germany
+    caloriesPer100g: 295
+    weight: 100
+  - name: Veggie Burger
+    nutritionalInfo: First Big Mac sold for $0.49
+    caloriesPer100g: 295
+    weight: 100
+  - name: Salsa Burger
+    nutritionalInfo: USA consumes 50 billion burgers
+    caloriesPer100g: 295
+    weight: 100
